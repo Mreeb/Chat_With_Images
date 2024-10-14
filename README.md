@@ -1,6 +1,4 @@
 Here's a polished and well-formatted version of your `README.md` for the **Chat_With_Images** project:
-
-```markdown
 # Chat_With_Images
 
 A **Streamlit** app that utilizes a **Visual Language Model (VLM)** for image and graph analysis.
@@ -15,7 +13,8 @@ Make sure to pull the **LLaVA** model from **Ollama** after installing and confi
 
 ```bash
 ollama pull llava
-```
+
+
 
 ### 2. **Install Dependencies**
 
