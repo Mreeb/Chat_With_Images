@@ -43,11 +43,3 @@ Here's a preview of how the app looks:
 - Ensure that all required dependencies are installed before running the app.
 - Make sure your system is properly configured to run **Ollama** and the **LLaVA** model.
 ```
-
-### Breakdown of the Formatting:
-- **Headings**: Used Markdown headers (`#`, `##`) for clarity and structure.
-- **Code Blocks**: Used triple backticks (\`\`\`) for code commands to make them distinct.
-- **Image**: The screenshot is linked using the appropriate Markdown syntax for displaying images.
-- **Clear Instructions**: Each setup step is clearly separated and detailed, making it easy to follow.
-
-This format ensures readability and ease of use for anyone accessing your repository. Let me know if you need further adjustments!
