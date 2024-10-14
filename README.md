@@ -13,7 +13,7 @@ Make sure to pull the **LLaVA** model from **Ollama** after installing and confi
 
 ```bash
 ollama pull llava
-
+```
 
 
 ### 2. **Install Dependencies**
